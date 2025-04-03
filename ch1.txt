@@ -1,1 +1,21 @@
 hii we are using it
+
+
+
+git initialize cmd: "git init"
+
+ add file to stagging are cmd: "git add file_name"
+
+ to add all files available in the directory:"git add ."
+
+ to commit a msg to any change cmd:"git commit -m "your_msg_""
+
+ to see the commit msgs:"git log"
+
+to see the diff between current stage and previous stage cmd:"git diff"
+{
+    green part was added 
+    red part was deleted
+}
+
+to revert the correction or to go to the previous version cmd:"git checkout file_name"
